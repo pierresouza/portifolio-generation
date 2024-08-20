@@ -60,6 +60,7 @@ color: var(--black-800);: Define a cor do texto como preto escuro.
 
 .botao:hover {
   color: var(--gray-200);
+  cursor: pointer;
   background-color: var(--purple-800);
 }
 
